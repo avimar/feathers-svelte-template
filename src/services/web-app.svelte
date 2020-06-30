@@ -17,6 +17,7 @@
 	<li>You will have to modify your main files in public/ if necessary.</li>
 	<li>run: `npm run dev` will put rollup in watch mode and nodemon on feathers, in one cli</li>
 	<li>run: `npm run build` to compile svelte</li>
+	<li>`import app from 'web-feathers.js';` for a singleton to your feathers client</li>
 	</ul>
 
 	Some suggestons: <br>
